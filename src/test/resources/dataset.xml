@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <ROLE ID="1" NAME="USER"/>
+    <ROLE ID="2" NAME="Admin"/>
+    <USER ID="1" LOGIN="Sara" PASSWORD="123" EMAIL="test1@mail.com" ROLE_ID="1"
+          FIRSTNAME="Sarah" LASTNAME="Deborah" BIRTHDAY="1977-01-02"/>
+    <USER ID="2" LOGIN="David" PASSWORD="234" EMAIL="test2@mail.com" ROLE_ID="2"
+          FIRSTNAME="David" LASTNAME="Smith" BIRTHDAY="1987-01-02"/>
+    <USER ID="3" LOGIN="Mariya" PASSWORD="345" EMAIL="test3@mail.com"
+          ROLE_ID="1" FIRSTNAME="Maria" LASTNAME="Anderson"
+          BIRTHDAY="1997-01-02"/>
+</dataset>
